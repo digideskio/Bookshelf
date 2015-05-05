@@ -6,6 +6,6 @@
 
 ## Sass
 
-[Sass Guidelines](http://sass-guidelin.es/)
+[Sass Documentation (Official)](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 
-[Official Sass Documentation](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
+[Sass Guidelines](http://sass-guidelin.es/)
