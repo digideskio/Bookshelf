@@ -12,7 +12,7 @@
 
 [Git Reference](http://gitref.org/)
 
-[Pro Git Book](http://git-scm.com/book/en/v2/)
+[Pro Git Book (Official Documentation)](http://git-scm.com/book/en/v2/)
 
 ## GitHub
 
