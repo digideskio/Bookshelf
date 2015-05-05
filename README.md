@@ -16,3 +16,5 @@ Links to various web dev/design books published online, long-form guides and com
 [Version Control](https://github.com/davetgreen/Bookshelf/blob/master/version-control.md)
 
 [Web Design](https://github.com/davetgreen/Bookshelf/blob/master/web-design.md)
+
+[WordPress](https://github.com/davetgreen/Bookshelf/blob/master/wordpress.md)
