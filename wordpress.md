@@ -20,3 +20,11 @@
 
 [Custom Meta Boxes Wiki](https://github.com/humanmade/Custom-Meta-Boxes/wiki)
 
+## WooCommerce
+
+[Codex](http://docs.woothemes.com/documentation/plugins/woocommerce/woocommerce-codex)
+
+[API Docs](http://docs.woothemes.com/wc-apidocs/index.html)
+
+[Action and Filter Hook Reference](http://docs.woothemes.com/wc-apidocs/hook-docs.html)
+
