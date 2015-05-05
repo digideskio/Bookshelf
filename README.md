@@ -1,5 +1,5 @@
 # Bookshelf
-Links to various web development eBooks and comprehensive guides published on GitHub and elsewhere online.
+Links to various web development eBooks, long-form guides and references published on GitHub and elsewhere.
 
 ## Shelves
 
