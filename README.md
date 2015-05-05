@@ -11,4 +11,6 @@ Links to various web dev/design books published online, long-form guides and com
 
 [PHP & MySQL](https://github.com/davetgreen/Bookshelf/blob/master/php-and-mysql.md)
 
+[Typography](https://github.com/davetgreen/Bookshelf/blob/master/typography.md)
+
 [Version Control](https://github.com/davetgreen/Bookshelf/blob/master/version-control.md)
