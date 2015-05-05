@@ -14,7 +14,7 @@
 
 [Foundation for Apps Docs](http://foundation.zurb.com/apps/docs/#!/)
 
-# Package Managers
+## Package Managers
 
 [Bower Command Line API](http://bower.io/docs/api/)
 
