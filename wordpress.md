@@ -16,7 +16,7 @@
 
 [Theme Developer Handbook](https://developer.wordpress.org/themes/getting-started/)
 
-## Third Party
+## Frameworks
 
 [Custom Meta Boxes Wiki](https://github.com/humanmade/Custom-Meta-Boxes/wiki)
 
