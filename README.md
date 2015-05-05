@@ -1,2 +1,2 @@
 # Bookshelf
-Links to various books published on GitHub and elsewhere online.
+Links to various web development books published on GitHub and elsewhere online.
