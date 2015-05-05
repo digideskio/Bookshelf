@@ -14,3 +14,5 @@ Links to various web dev/design books published online, long-form guides and com
 [Typography](https://github.com/davetgreen/Bookshelf/blob/master/typography.md)
 
 [Version Control](https://github.com/davetgreen/Bookshelf/blob/master/version-control.md)
+
+[Web Design](https://github.com/davetgreen/Bookshelf/blob/master/web-design.md)
