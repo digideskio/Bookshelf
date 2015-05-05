@@ -4,6 +4,8 @@
 
 [Eloquent Javascript - Second Edition](http://eloquentjavascript.net/)
 
+[Eric Elliott's Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links) (lots of links)
+
 [Shane Prendergast's Javascript Helpsheet](https://github.com/webknit/Javascript-Helpsheet)
 
 [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
