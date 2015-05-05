@@ -6,6 +6,8 @@
 ## Git
 [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/)
 
+[Learn Version Control with Git](http://www.git-tower.com/learn/git/videos/) (video content)
+
 [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561/index.html)
 
 [Git Reference](http://gitref.org/)
