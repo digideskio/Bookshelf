@@ -1,6 +1,6 @@
 # Javascript
 
-[Eloquent Javascript - Second Edition])http://eloquentjavascript.net/)
+[Eloquent Javascript - Second Edition](http://eloquentjavascript.net/)
 
 ## You Don't Know JS
 
