@@ -9,6 +9,8 @@ Links to various web dev/design books published online, long-form guides and com
 
 [Graphics](https://github.com/davetgreen/Bookshelf/blob/master/graphics.md)
 
+[HTML](https://github.com/davetgreen/Bookshelf/blob/master/html.md)
+
 [Javascript & jQuery](https://github.com/davetgreen/Bookshelf/blob/master/javascript-and-jquery.md)
 
 [PHP & MySQL](https://github.com/davetgreen/Bookshelf/blob/master/php-and-mysql.md)
