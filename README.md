@@ -7,6 +7,8 @@ Links to various web development eBooks published online, long-form guides and r
 
 [Graphics](https://github.com/davetgreen/Bookshelf/blob/master/graphics.md)
 
-[Javascript](https://github.com/davetgreen/Bookshelf/blob/master/javascript.md)
+[Javascript & jQuery](https://github.com/davetgreen/Bookshelf/blob/master/javascript-and-jquery.md)
+
+[PHP & MySQL](https://github.com/davetgreen/Bookshelf/blob/master/php-and-mysql.md)
 
 [Version Control](https://github.com/davetgreen/Bookshelf/blob/master/version-control.md)
