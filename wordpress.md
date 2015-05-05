@@ -2,7 +2,11 @@
 
 ## Official
 
+[Class Reference: WP_Query](https://codex.wordpress.org/Class_Reference/WP_Query)
+
 [Code Reference](https://developer.wordpress.org/reference/)
+
+[Codex: Developer Documentation](https://codex.wordpress.org/Developer_Documentation)
 
 [Plugin API](https://codex.wordpress.org/Plugin_API)
 
@@ -11,8 +15,6 @@
 [Theme Customisation API](https://codex.wordpress.org/Theme_Customization_API)
 
 [Theme Developer Handbook](https://developer.wordpress.org/themes/getting-started/)
-
-[WP_Query](https://codex.wordpress.org/Class_Reference/WP_Query)
 
 ## Third Party
 
