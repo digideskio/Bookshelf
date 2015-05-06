@@ -6,6 +6,8 @@
 
 [Eric Elliott's Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links) (lots of links)
 
+[Learning Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
 [MDN: Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 [Shane Prendergast's Javascript Helpsheet](https://github.com/webknit/Javascript-Helpsheet)
