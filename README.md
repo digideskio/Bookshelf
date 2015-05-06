@@ -1,5 +1,5 @@
 # Bookshelf
-Links to various web dev/design books published online, long-form guides and complete references.
+Links to various web dev/design books published online, long-form reads and complete references.
 
 ## Shelves
 
