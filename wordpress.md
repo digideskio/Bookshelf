@@ -11,6 +11,10 @@
 
 [Plugin Developer Handbook](https://developer.wordpress.org/plugins/intro/)
 
+[Rest API Documentation](http://wp-api.org/)
+
+[Rest API Resources](https://developer.wordpress.com/docs/api/)
+
 [Theme Customisation API](https://codex.wordpress.org/Theme_Customization_API)
 
 [Theme Developer Handbook](https://developer.wordpress.org/themes/getting-started/)
