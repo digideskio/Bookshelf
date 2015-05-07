@@ -1,5 +1,10 @@
 # Bookshelf
-Links to various web dev/design books published online, long-form reads and complete references.
+The idea behind Bookshelf was simply to gather web dev/design resources that are authoritative, comprehensive and  regarded as the best "go to" resources for the topic in question that will stand the test of time. I'll be linking to:
+
+- eBooks published online
+- Long form articles
+- Official documentation
+- Complete references/cheat sheets
 
 ## Shelves
 
