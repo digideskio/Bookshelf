@@ -4,7 +4,7 @@
 
 [Eloquent Javascript - Second Edition](http://eloquentjavascript.net/)
 
-[Eric Elliott's Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links) (lots of links)
+[Eric Elliott's Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links)
 
 [Learning Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
