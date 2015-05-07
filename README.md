@@ -12,7 +12,7 @@ The idea behind Bookshelf was simply to gather web dev/design resources that are
 
 [Design](https://github.com/davetgreen/Bookshelf/blob/master/design.md)
 
-[Front-end](https://github.com/davetgreen/Bookshelf/blob/master/front-end.md)
+[Front-end Development](https://github.com/davetgreen/Bookshelf/blob/master/front-end.md)
 
 [Graphics](https://github.com/davetgreen/Bookshelf/blob/master/graphics.md)
 
