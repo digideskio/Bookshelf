@@ -1,5 +1,7 @@
 # WordPress
 
+## Core
+
 [Class Reference: WP_Query](https://codex.wordpress.org/Class_Reference/WP_Query)
 
 [Code Reference](https://developer.wordpress.org/reference/)
