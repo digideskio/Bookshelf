@@ -30,6 +30,8 @@
 
 [Plugin Developer Handbook](https://developer.wordpress.org/plugins/intro/)
 
+[Wordpress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate)
+
 ## REST API
 
 [Rest API Documentation](http://wp-api.org/)
