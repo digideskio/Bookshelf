@@ -8,17 +8,9 @@
 
 [Codex: Class Reference - WP_Query](https://codex.wordpress.org/Class_Reference/WP_Query)
 
-## Plugin Development 
+## Frameworks
 
-[Codex: Plugin API](https://codex.wordpress.org/Plugin_API)
-
-[Plugin Developer Handbook](https://developer.wordpress.org/plugins/intro/)
-
-## WP REST API
-
-[Rest API Documentation](http://wp-api.org/)
-
-[Rest API Resources](https://developer.wordpress.com/docs/api/)
+[Custom Meta Boxes Wiki](https://github.com/humanmade/Custom-Meta-Boxes/wiki)
 
 ## Theme Customizer 
 
@@ -28,9 +20,17 @@
 
 [The Wordpress Theme Customizer: A Comprehensive Developer's Guide](http://themefoundation.com/wordpress-theme-customizer/)
 
-## Frameworks
+## Plugin Development 
 
-[Custom Meta Boxes Wiki](https://github.com/humanmade/Custom-Meta-Boxes/wiki)
+[Codex: Plugin API](https://codex.wordpress.org/Plugin_API)
+
+[Plugin Developer Handbook](https://developer.wordpress.org/plugins/intro/)
+
+## REST API
+
+[Rest API Documentation](http://wp-api.org/)
+
+[Rest API Resources](https://developer.wordpress.com/docs/api/)
 
 ## WooCommerce
 
