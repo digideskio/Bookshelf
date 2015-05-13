@@ -6,7 +6,7 @@
 
 [Code Reference](https://developer.wordpress.org/reference/)
 
-[Codex: Developer Documentation](https://codex.wordpress.org/Developer_Documentation)
+[Codex](https://codex.wordpress.org/Developer_Documentation)
 
 ## Plugin Development 
 
