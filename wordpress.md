@@ -8,9 +8,13 @@
 
 [Codex: Class Reference - WP_Query](https://codex.wordpress.org/Class_Reference/WP_Query)
 
-## Frameworks
+## Frameworks & Libraries
 
 [Custom Meta Boxes Wiki](https://github.com/humanmade/Custom-Meta-Boxes/wiki)
+
+[Customizer Library](https://github.com/devinsays/customizer-library)
+
+[Extended Custom Post Types](https://github.com/johnbillion/extended-cpts)
 
 ## Theme Customizer 
 
