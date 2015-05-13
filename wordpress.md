@@ -1,23 +1,30 @@
 # WordPress
 
-
 [Class Reference: WP_Query](https://codex.wordpress.org/Class_Reference/WP_Query)
 
 [Code Reference](https://developer.wordpress.org/reference/)
 
 [Codex: Developer Documentation](https://codex.wordpress.org/Developer_Documentation)
 
+## Plugin Development 
+
 [Plugin API](https://codex.wordpress.org/Plugin_API)
 
 [Plugin Developer Handbook](https://developer.wordpress.org/plugins/intro/)
+
+## WP REST API
 
 [Rest API Documentation](http://wp-api.org/)
 
 [Rest API Resources](https://developer.wordpress.com/docs/api/)
 
+## Theme Customizer 
+
 [Theme Customisation API](https://codex.wordpress.org/Theme_Customization_API)
 
 [Theme Developer Handbook](https://developer.wordpress.org/themes/getting-started/)
+
+[The Wordpress Theme Customizer: A Comprehensive Developer's Guide](http://themefoundation.com/wordpress-theme-customizer/)
 
 ## Frameworks
 
