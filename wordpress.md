@@ -2,15 +2,15 @@
 
 ## Core
 
-[Class Reference: WP_Query](https://codex.wordpress.org/Class_Reference/WP_Query)
-
 [Code Reference](https://developer.wordpress.org/reference/)
 
-[Codex](https://codex.wordpress.org/Developer_Documentation)
+[Codex: Developer Documentation](https://codex.wordpress.org/Developer_Documentation)
+
+[Codex: Class Reference - WP_Query](https://codex.wordpress.org/Class_Reference/WP_Query)
 
 ## Plugin Development 
 
-[Plugin API](https://codex.wordpress.org/Plugin_API)
+[Codex: Plugin API](https://codex.wordpress.org/Plugin_API)
 
 [Plugin Developer Handbook](https://developer.wordpress.org/plugins/intro/)
 
@@ -22,7 +22,7 @@
 
 ## Theme Customizer 
 
-[Theme Customisation API](https://codex.wordpress.org/Theme_Customization_API)
+[Codex: Theme Customisation API](https://codex.wordpress.org/Theme_Customization_API)
 
 [Theme Developer Handbook](https://developer.wordpress.org/themes/getting-started/)
 
