@@ -14,6 +14,8 @@ The idea behind Bookshelf was simply to gather web dev/design resources that are
 
 [Front-end Development](https://github.com/davetgreen/Bookshelf/blob/master/front-end.md)
 
+[Generators and Templating](https://github.com/davetgreen/Bookshelf/blob/master/generators-and-templating.md)
+
 [Graphics](https://github.com/davetgreen/Bookshelf/blob/master/graphics.md)
 
 [HTML & ARIA](https://github.com/davetgreen/Bookshelf/blob/master/html-and-aria.md)
