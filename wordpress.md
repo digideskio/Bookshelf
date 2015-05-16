@@ -22,7 +22,9 @@
 
 [Theme Developer Handbook](https://developer.wordpress.org/themes/getting-started/)
 
-[The Wordpress Theme Customizer: A Comprehensive Developer's Guide](http://themefoundation.com/wordpress-theme-customizer/)
+[The WordPress Theme Customizer: A Comprehensive Developer's Guide](http://themefoundation.com/wordpress-theme-customizer/)
+
+[A Guide to the WordPress Theme Customizer](http://code.tutsplus.com/series/a-guide-to-the-wordpress-theme-customizer--wp-33722)
 
 ## Plugin Development 
 
@@ -30,7 +32,7 @@
 
 [Plugin Developer Handbook](https://developer.wordpress.org/plugins/intro/)
 
-[Wordpress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate)
+[WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate)
 
 ## REST API
 
