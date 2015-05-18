@@ -9,6 +9,8 @@
 
 [Git Docs - Submodules](http://git-scm.com/book/en/v2/Git-Tools-Submodules)
 
+[Github Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+
 [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561/index.html)
 
 [Git Reference](http://gitref.org/)
