@@ -8,6 +8,8 @@ The idea behind Bookshelf was simply to gather web dev/design resources that are
 
 ## Shelves
 
+[Accessibility](https://github.com/davetgreen/Bookshelf/blob/master/accessibility.md)
+
 [CSS & Sass](https://github.com/davetgreen/Bookshelf/blob/master/css-and-sass.md)
 
 [Design](https://github.com/davetgreen/Bookshelf/blob/master/design.md)
@@ -18,7 +20,7 @@ The idea behind Bookshelf was simply to gather web dev/design resources that are
 
 [Graphics](https://github.com/davetgreen/Bookshelf/blob/master/graphics.md)
 
-[HTML & ARIA](https://github.com/davetgreen/Bookshelf/blob/master/html-and-aria.md)
+[HTML](https://github.com/davetgreen/Bookshelf/blob/master/html.md)
 
 [Javascript & jQuery](https://github.com/davetgreen/Bookshelf/blob/master/javascript-and-jquery.md)
 
